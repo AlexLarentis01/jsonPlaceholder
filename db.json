@@ -1,4 +1,5 @@
-folders: [
+{
+            folders: [
             {
                 name: 'Folder 1',
                 banners: [
@@ -34,3 +35,4 @@ folders: [
                 ],
             },
         ],
+}
